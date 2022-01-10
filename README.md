@@ -18,7 +18,7 @@ Je suis un passionné de *retrogaming* et de *romhacking*. Le *romhacking* consi
 
 My name is Fred. I completed a DEC in computer science in 2015 and after I completed a bachelor degree in computer science in 2021 at UQAM. I am starting this winter a short graduate degree in IT with a data science specialization.
 
-### Projets académiques
+### Academic projects
 
 You will find here projects such as a [web application](https://github.com/fred65816/bed-bugs-6502) about bedbugs in Montreal, [a C#/WPF utility](https://github.com/fred65816/ManuRecyclEco) for the selling and exchange of used academic books and a [65816 assembly code compiler](https://github.com/fred65816/interp-snes). I have also done an [algorithmic project](https://github.com/fred65816/reseau-prim-algorithme) based on the Prim algorithm. Finally you will find a 3D racing game named [Arcade Racer 2049](https://github.com/fred65816/arcade-racer-2049) and a 2D platformer named [Feed Bob](https://github.com/fred65816/feed-bob).
 
